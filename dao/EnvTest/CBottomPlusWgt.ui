@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ui version="4.0">
+ <class>CBottomPlusWgt</class>
+ <widget class="QWidget" name="CBottomPlusWgt">
+  <property name="geometry">
+   <rect>
+    <x>0</x>
+    <y>0</y>
+    <width>400</width>
+    <height>177</height>
+   </rect>
+  </property>
+  <property name="windowTitle">
+   <string>Form</string>
+  </property>
+  <layout class="QGridLayout" name="gridLayout">
+   <item row="0" column="0">
+    <widget class="QLabel" name="label">
+     <property name="text">
+      <string>极乐世界的法律是家里的放假啦杀手李海军我热i我就爱上了老师的；拉萨你觉得方腊时年仅介绍了附近的邻居阿斯顿发链接拉萨酱豆腐拉丁教父啊打发士大夫数量大幅加快</string>
+     </property>
+     <property name="wordWrap">
+      <bool>true</bool>
+     </property>
+    </widget>
+   </item>
+   <item row="1" column="0">
+    <widget class="QDateTimeEdit" name="dateTimeEdit">
+     <property name="displayFormat">
+      <string>yyyy/MM/dd HH:mm:ss</string>
+     </property>
+     <property name="calendarPopup">
+      <bool>true</bool>
+     </property>
+    </widget>
+   </item>
+  </layout>
+ </widget>
+ <resources/>
+ <connections/>
+</ui>
